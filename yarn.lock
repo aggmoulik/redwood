@@ -3373,7 +3373,7 @@
   dependencies:
     "@prisma/debug" "2.24.1"
 
-"@prisma/sdk@2.24.1":
+"@prisma/sdk@2.24.01", "@prisma/sdk@2.24.1":
   version "2.24.1"
   resolved "https://registry.yarnpkg.com/@prisma/sdk/-/sdk-2.24.1.tgz#be9d94c3d0dddf5670e8b86e7e2575e76bcf7754"
   integrity sha512-pdJFw/XMzOI1ttz2V6+QG9tyYY+kC8vEtNbabxkgGAfFZgZ0U1j8XB7/ZEOFWD01BJgTQN//DP+uIfmLOkvX1A==
@@ -4219,10 +4219,10 @@
   resolved "https://registry.yarnpkg.com/@types/aria-query/-/aria-query-4.2.1.tgz#78b5433344e2f92e8b306c06a5622c50c245bf6b"
   integrity sha512-S6oPal772qJZHoRZLFc/XoZW2gFvwXusYUmXPXkgxJLuEk2vOt7jc4Yo6z/vtI0EBkbPBVrJJ0B+prLIKiWqHg==
 
-"@types/aws-lambda@8.10.76", "@types/aws-lambda@^8.10.31":
-  version "8.10.76"
-  resolved "https://registry.yarnpkg.com/@types/aws-lambda/-/aws-lambda-8.10.76.tgz#a20191677f1f5e32fe1f26739b1d6fbbea9cf636"
-  integrity sha512-lCTyeRm3NWqSwDnoji0z82Pl0tsOpr1p+33AiNeidgarloWXh3wdiVRUuxEa+sY9S5YLOYGz5X3N3Zvpibvm5w==
+"@types/aws-lambda@8.10.77", "@types/aws-lambda@^8.10.31":
+  version "8.10.77"
+  resolved "https://registry.yarnpkg.com/@types/aws-lambda/-/aws-lambda-8.10.77.tgz#04c4e3a06ab5552f2fa80816f8adca54b6bb9671"
+  integrity sha512-n0EMFJU/7u3KvHrR83l/zrKOVURXl5pUJPNED/Bzjah89QKCHwCiKCBoVUXRwTGRfCYGIDdinJaAlKDHZdp/Ng==
 
 "@types/babel-core@6.25.6":
   version "6.25.6"
