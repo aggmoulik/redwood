@@ -9,7 +9,7 @@
   "devDependencies": {
     "@babel/cli": "7.15.4",
     "@babel/node": "7.15.4",
-    "eslint": "7.32.0",
+    "eslint": "8.0.0",
     "jest": "27.2.0",
     "npm-packlist": "3.0.0",
     "rimraf": "3.0.2",
